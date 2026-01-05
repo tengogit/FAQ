@@ -74,7 +74,9 @@ h1 {
     font-size: 32px;
     font-weight: bold;
 }
-
+ .line{
+        width: 100%;
+    }
 details {
     width: 279px;
     height: auto;
