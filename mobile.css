@@ -41,7 +41,7 @@ body {
 }
 
 header {
-    width: 375px;
+    width: 100%;
     height: 232px;
     background: url(./assets/background-pattern-mobile.svg)
 }
