@@ -1,0 +1,29 @@
+@media(width>768px){
+    main,header{
+        width: 600px;
+
+    }
+    section{
+        width: 520px;
+        margin-bottom: 32px;
+    }
+    section>img{
+        width: 40px;
+        height: 40px;
+    }
+    h1{
+        font-size: 56px;
+    }
+    details{
+        width: 520px;
+    }
+    summary{
+        width: 100%;
+    }
+    h2{
+        width: 549px;
+    }
+    p{
+        font-size: 16px;
+    }
+}
