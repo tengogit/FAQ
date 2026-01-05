@@ -1,7 +1,6 @@
 @media(width>1000px){
     header{
         width: 100%;
-    background-repeat: no-repeat;
 background-image: url(./assets/background-pattern-desktop.svg);
 
     }
