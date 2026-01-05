@@ -5,6 +5,7 @@
     --mainbg: #FFFFFF;
     --h1color: #301534;
     --h2color: #301534;
+    --h2Activecolor:#AD28EB;
     --pcolor: #8B6990;
     --iconNanActivebg: #AD28EB;
     --iconActivebg: #301534;
@@ -129,4 +130,7 @@ details[open] .icon::before {
 
 details[open] .icon {
     background-color: var(--iconActivebg);
+}
+details[open] h2{
+    color:var(--h2Activecolor)
 }
